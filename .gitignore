@@ -1,0 +1,3 @@
+node_modules
+# env is relvant to connect with the database
+.env 
